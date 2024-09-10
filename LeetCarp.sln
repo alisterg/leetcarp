@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCarp", "LeetCarp\LeetCarp.csproj", "{42146F17-6CE1-432A-9112-BDA5EB8185BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCarp.Tests", "LeetCarp.Tests\LeetCarp.Tests.csproj", "{C2433331-E783-4DCA-B0BE-D40726577960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42146F17-6CE1-432A-9112-BDA5EB8185BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42146F17-6CE1-432A-9112-BDA5EB8185BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42146F17-6CE1-432A-9112-BDA5EB8185BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42146F17-6CE1-432A-9112-BDA5EB8185BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2433331-E783-4DCA-B0BE-D40726577960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2433331-E783-4DCA-B0BE-D40726577960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2433331-E783-4DCA-B0BE-D40726577960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2433331-E783-4DCA-B0BE-D40726577960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
