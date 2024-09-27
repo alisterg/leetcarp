@@ -1,6 +1,6 @@
 ﻿namespace LeetCarp.Easy;
 
-public class MergeStringsAlternately
+public class _1768_MergeStringsAlternately
 {
     /// <summary>
     /// Merge the two input strings by adding letters in alternating order,
